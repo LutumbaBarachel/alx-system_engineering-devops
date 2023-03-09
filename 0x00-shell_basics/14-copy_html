@@ -1,0 +1,2 @@
+#!/bin/bash
+[ ! -e "html_files/$file" ] || [ "$file" -nt "html_files/$file" ] 
