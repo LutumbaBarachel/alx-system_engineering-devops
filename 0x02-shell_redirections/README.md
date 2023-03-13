@@ -1,2 +1,1 @@
-#!bin/bash
-This is redirection
+this is redirections
